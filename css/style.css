@@ -718,3 +718,19 @@ img {
 footer:hover  span{
     color: #8BC34A;
 }
+
+footer {
+  text-align: center;
+  border-top: 1px solid #fff;
+  padding-top: 10px;
+  margin-top: 20px;
+}
+
+footer small {
+  color: #fff;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
